@@ -1,1 +1,2 @@
 Ini adalah file example
+Adding new line at example.txt
